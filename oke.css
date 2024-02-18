@@ -146,6 +146,7 @@
         margin:auto;
         display: flex;
         width: 100%;
+        animation-delay: 1.5s;
         animation: 
             bo 1s;
     }
